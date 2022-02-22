@@ -8,15 +8,15 @@ A idéia, então será demostrar no Django os relacionamentos dos tipos OneToOne
 Deploy local
 Instale o django com o comando pip:
 
-pip install django 
+´pip install django´ 
 
 Instale as dependências no requirements.txt:
 
-pip freeze > requirements.txt
+´pip freeze > requirements.txt´
 
 Qualquer alteração nos models deve ser concluída com o comando:
 
-python manage.py makemigrations
+´python manage.py makemigrations´
 
 E depois migrar os models para o banco de dados:
 
