@@ -1,7 +1,7 @@
 # Django_ORM
 Estudo de um Mapeamento Objeto-Relacional (ORM) 
 
-Projeto para estudo de um ORM de uma suposta montadora. O banco dedados possui em suas colunas a Montadora, o Modelo, Chassi, Preço e Motoristas dos veículos.
+Projeto para estudo de um ORM de uma suposta montadora. O banco de dados possui em suas colunas a Montadora, o Modelo, Chassi, Preço e Motoristas dos veículos.
 
 A idéia, então será demostrar no Django os relacionamentos dos tipos OneToOne, ManyToOne, ManyToMany e o modo de deleção de objetos em cascata (CASCADE). 
 
