@@ -3,7 +3,7 @@ Estudo de um Mapeamento Objeto-Relacional (ORM)
 
 Projeto para estudo de um ORM de uma suposta montadora. O banco dedados possui em suas colunas a Montadora, o Modelo, Chassi, Preço e Motoristas dos veículos.
 
-A idéia, então será demostrar no Django os relacionamentos dos tipos OneToOne, ManyToOn e ManyToMany e o modo de deleção de objetos em cascata (CASCADE). 
+A idéia, então será demostrar no Django os relacionamentos dos tipos OneToOne, ManyToOne, ManyToMany e o modo de deleção de objetos em cascata (CASCADE). 
 
 Deploy local
 Instale o django com o comando pip:
